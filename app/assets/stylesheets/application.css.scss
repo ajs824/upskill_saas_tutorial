@@ -21,6 +21,24 @@ h1, h2, h3 {
   font-family: 'Open Sans', sans-serif;
 }
 
+.navbar-default .navbar-brand {
+  color: #04345d;
+}
+
+.navbar-default .navbar-nav > li > a {
+  color: #04345d;
+}
+
+.navbar-default .navbar-brand:hover {
+  color: #04345d;
+  opacity: 0.65;
+}
+
+.navbar-default .navbar-nav > li > a:hover {
+  color: #04345d;
+  opacity: 0.65;
+}
+
 .navbar, .home-callout {
   //Gradient provided by @_ighosh at uiGradients.com
   background: #30E8BF;  /* fallback for old browsers */
